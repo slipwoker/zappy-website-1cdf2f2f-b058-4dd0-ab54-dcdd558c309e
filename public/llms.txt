@@ -1,0 +1,108 @@
+# TOP STYLE — Generative Engine Optimization Map
+
+> An online clothing store focused on selling fashion items through a digital storefront. The business aims to provide customers with an accessible and convenient shopping experience for apparel.
+
+---
+
+## Pages
+
+### בית
+https://top-style-1cdf2f2f.zappy5.app
+ברוכה הבאה לעולם האופנה של TOP STYLE! גלי קולקציות מהממות של חולצות קרופ טופ, סגנון חופף ועוד. חוויית קנייה נוחה ומשלוח מהיר. התחילי להתחדש עכשיו!
+
+### מדריך סגנון
+https://top-style-1cdf2f2f.zappy5.app/style-guide
+מוכנה להפוך לאייקון אופנה? היכנסי למדריך הסגנון שלנו וגלי טיפים חמים לשילוב מנצח של סגנון סקרלט טופ וסגנון נשים עליון. התחילי ליצור לוקים מעוררי קנאה!
+
+### קיימות
+https://top-style-1cdf2f2f.zappy5.app/sustainability
+ב-TOP STYLE אנחנו מאמינים שאופנה וקיימות הולכות יחד. גלי איך אנחנו מייצרים פריטי סגנון קרופ טופ אהובים תוך שמירה על הסביבה. הצטרפי למהפכה הירוקה עוד היום!
+
+### אודות
+https://top-style-1cdf2f2f.zappy5.app/about
+סקרנית לדעת מי עומד מאחורי חולצות הסגנון החופף האהובות עלייך? בואי לקרוא את הסיפור של TOP STYLE, החזון שלנו והתשוקה להלביש כל אישה בביטחון. הכירי אותנו מקרוב!
+
+### צור קשר
+https://top-style-1cdf2f2f.zappy5.app/contact
+יש שאלה על מידות או סגנון נשים עליון? צוות המומחים של TOP STYLE כאן בשבילך! מלאי את הטופס ונחזור אלייך עם כל התשובות והטיפים שיהפכו אותך לכוכבת אופנה. בואי נדבר!
+
+### Products
+https://top-style-1cdf2f2f.zappy5.app/products
+המוצרים שלנו - TOP STYLE
+
+### Cart
+https://top-style-1cdf2f2f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://top-style-1cdf2f2f.zappy5.app/checkout
+תשלום
+
+### Login
+https://top-style-1cdf2f2f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://top-style-1cdf2f2f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://top-style-1cdf2f2f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://top-style-1cdf2f2f.zappy5.app/product/:slug
+פרטי המוצר - TOP STYLE
+
+### Category
+https://top-style-1cdf2f2f.zappy5.app/category/:slug
+מוצרים - TOP STYLE
+
+### תודה שפניתם אלינו
+https://top-style-1cdf2f2f.zappy5.app/thank-you
+TOP STYLE - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://top-style-1cdf2f2f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://top-style-1cdf2f2f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://top-style-1cdf2f2f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TOP STYLE
+An online clothing store focused on selling fashion items through a digital storefront. The business aims to provide customers with an accessible and convenient shopping experience for apparel.
+
+## Target Audience
+- אנשי מקצוע אופנתיים צעירים
+- צרכנים מודעי סביבה
+- אמהות קונות אונליין
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://top-style-1cdf2f2f.zappy5.app/sitemap.xml
+- Robots: https://top-style-1cdf2f2f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://top-style-1cdf2f2f.zappy5.app/llms-full.txt
+- Products (JSON): https://top-style-1cdf2f2f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://top-style-1cdf2f2f.zappy5.app/product-feed.xml
